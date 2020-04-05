@@ -793,7 +793,7 @@ Bot.prototype.initialize = function() {
         setTimeout(() => {
             client.user.setAvatar('./embleme alliance.png');
         }, 5000);
-        client.user.setActivity('Anthem 2');
+        client.user.setActivity('New World Public Test');
 
         const startRuntime = () => {
             this.application.start();
