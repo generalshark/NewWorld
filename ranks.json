@@ -1,68 +1,146 @@
 [
     {
-        "name": "Grabbit",
-        "icon": ":mouse:",
+        "name": "Chair à canon",
+        "icon": ":poultry_leg:",
         "level": 0,
-        "role": ":rabbit2:Grabbit"
+        "role": "Chair à canon"
     },
     {
-        "name": "Tesilar",
-        "icon": "🦗",
+        "name": "Galinette cendrée",
+        "icon": ":dove:",
+        "level": 50,
+        "role": "Galinette cendrée"
+    },
+    {
+        "name": "Rejeté",
+        "icon": ":man_curly_haired:",
+        "level": 100,
+        "role": "Rejeté"
+    },
+    {
+        "name": "Bouclier humain",
+        "icon": ":shield:",
         "level": 150,
-        "role": ":bug:Tésilar"
+        "role": "Bouclier humain"
     },
     {
-        "name": "Lycan",
-        "icon": ":wolf:",
+        "name": "Noob",
+        "icon": ":baby:",
+        "level": 200,
+        "role": "Noob"
+    },
+    {
+        "name": "Mauvaise herbe",
+        "icon": ":seedling:",
+        "level": 250,
+        "role": "Mauvaise herbe"
+    },
+    {
+        "name": "Jeune pousse écrasée",
+        "icon": ":wilted_rose:",
         "level": 300,
-        "role": ":wolf:Lycan"
+        "role": "Jeune pousse écrasée"
     },
     {
-        "name": "Brute",
-        "icon": ":monkey_face:",
-        "level": 450,
-        "role": ":bear:Brute"
-    },
-    {
-        "name": "Ursix",
-        "icon": ":gorilla:",
-        "level": 600,
-        "role": ":gorilla:Ursix"
-    },
-    {
-        "name": "Small Titan",
-        "icon": ":lifter:️",
-        "level": 750,
-        "role": ":dragon_face:Small Titan"
-    },
-    {
-        "name": "Titan",
-        "icon": ":fleur_de_lis:️",
-        "level": 900,
-        "role": ":dragon:Titan"
-    },
-    {
-        "name": "Sentinelle",
-        "icon": ":cyclone:",
-        "level": 1050,
+        "name": "Poussin KFC",
+        "icon": ":baby_chick:",
+        "level": 350,
         "role": ":performing_arts: Sentinelle"
     },
     {
-        "name": "Veilleur",
-        "icon": "⛨",
-        "level": 1200,
-        "role": ":star:Veilleur"
+        "name": "Pion de mesdames",
+        "icon": ":briefs:",
+        "level": 400,
+        "role": "Pion de mesdames"
     },
     {
+        "name": "Vagabon",
+        "icon": ":smirk:",
+        "level": 450,
+        "role": "Vagabon"
+    },
+   {
+        "name": "soldat de première ligne",
+        "icon": ":man_farmer:",
+        "level": 500,
+        "role": "soldat de première ligne"
+    },
+   {
+        "name": "Portier de la colonie",
+        "icon": ":man_pilot:",
+        "level": 550,
+        "role": "Portier de la colonie"
+    },
+   {
         "name": "Gardien",
-        "icon": ":crossed_swords:️",
-        "level": 1350,
-        "role": ":sunny:️Gardien"
+        "icon": ":man_police_officer:",
+        "level": 600,
+        "role": "Gardien"
+    },
+   {
+        "name": "Apprenti guerrier",
+        "icon": ":mortar_board:",
+        "level": 650,
+        "role": "Apprenti guerrier"
+    },
+   {
+        "name": "guerrier",
+        "icon": ":person_fencing:",
+        "level": 700,
+        "role": "guerrier"
+    },
+   {
+        "name": "Rōnin",
+        "icon": ":rage:",
+        "level": 750,
+        "role": "Rōnin"
+    },
+   {
+        "name": "Acharné",
+        "icon": ":face_with_symbols_over_mouth:",
+        "level": 800,
+        "role": "Acharné"
+    },
+   {
+        "name": "Fanatique",
+        "icon": ":smiling_imp:",
+        "level": 850,
+        "role": "Fanatique"
+    },
+   {
+        "name": "Dur à cuire",
+        "icon": ":skull:",
+        "level": 900,
+        "role": "Dur à cuire"
+    },
+   {
+        "name": "officier",
+        "icon": ":skull_crossbones:",
+        "level": 950,
+        "role": "officier"
+    },
+   {
+        "name": "general",
+        "icon": ":axe:",
+        "level": 1000,
+        "role": "general"
+    },
+   {
+        "name": "etat major",
+        "icon": ":crossed_swords:",
+        "level": 1050,
+        "role": "etat major"
+    },
+   {
+        "name": "marechal",
+        "icon": ":hammer_pick:",
+        "level": 1100,
+        "role": "marechal"
     },
     {
-        "name": "Démiurge",
-        "icon": ":trident:",
-        "level": 1500,
-        "role": ":sun_with_face:Demiurge"
+        "name": "Vaulted",
+        "icon": ":100:",
+        "level": 1150,
+        "role": "Vaulted"
     }
 ]
